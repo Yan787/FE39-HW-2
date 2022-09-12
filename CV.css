@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Kanit;
+    src: url(./Kanit-ExtraLight.ttf);
+}
+
+.container {
+   max-width: 1250px;
+}
+
+.body {
+    font-family: Kanit;
+    background: #e70606;
+}
